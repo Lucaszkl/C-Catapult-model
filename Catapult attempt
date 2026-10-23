@@ -4,9 +4,9 @@
 
 int main() {
 
-	int gravity = 9.81;
-	cout << "Enter the mass of the projectile (in kg): ";
-	
+	int mass;
+	std:: cout << "Enter the mass of the projectile (in kg): ";
+	std:: cin >> mass;
 
 
 
